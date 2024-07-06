@@ -5,3 +5,4 @@ mobileApp
 truffle-config.js
 .env
 server
+package-lock.json
